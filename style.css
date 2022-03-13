@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    width:500px;
+    height: auto;
+}
+
+h2 {
+    color: plum;
+    font-weight: bold;
+}
+
+.avocado {
+    background-color: honeydew;
+}
+
+.eggs {
+    background-color: lemonchiffon;
+}
